@@ -42,5 +42,8 @@ meme <- c(top_row, bottom_row) %>%
   image_append(stack = TRUE) %>%
   image_scale(800)
 
+meme
+
+# exporting meme
 image_write(meme, "my_meme.png")
 
