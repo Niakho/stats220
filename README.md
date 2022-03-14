@@ -1,6 +1,12 @@
+# stats220 Assignment 1
 Website: https://niakho.github.io/stats220/
 
-The purpose for this repo is to complete assignment 1 meme project due on the 21st March 2022
+## Description
+The purpose for this repo is to submit assignment 1 meme project on github.
 
-#stats220
-## header 2
+### Assignment 1 
+- is due 21/03/2022, 10pm
+- Marked out of 10
+
+
+
