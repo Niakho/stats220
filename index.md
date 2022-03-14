@@ -1,4 +1,6 @@
+```r
 library(magick)
+```
 
 # meme images
 ```r
