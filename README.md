@@ -1,4 +1,4 @@
-# Stats220 Assignment 1**
+# Stats220 Assignment 1
 **Website:** https://niakho.github.io/stats220/
 
 ##  Description:
