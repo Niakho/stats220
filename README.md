@@ -1,8 +1,6 @@
 # Stats220 Assignment 1
 **Website:** https://niakho.github.io/stats220/
 
-![](https://github.com/Niakho/stats220/blob/main/my_meme.png?raw=true)
-
 ##  Description:
 The purpose for this repository is to present assignment 1 Part A my_meme project on github and the marking scheme.
 - **Due 21/03/2022, 10pm**
