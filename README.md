@@ -24,6 +24,18 @@ The purpose for this repo is to submit assignment 1 meme project on github.
 9) The visual appearance of the report has been modified in at least two different ways using CSS code (1 mark)
 10) The report demonstrates creativity (1 mark)
 
-### Images used reference.
+### Images address used.
+Part A
 - https://pbs.twimg.com/media/D8qKs4IXkAAz9rK.jpg
 - https://i.kym-cdn.com/entries/icons/mobile/000/027/475/Screen_Shot_2018-10-25_at_11.02.15_AM.jpg
+
+Part B
+- https://www.serebii.net/pokearth/sprites/green/025.png
+- https://www.serebii.net/pokearth/sprites/gold/025.png
+- https://img.pokemondb.net/sprites/ruby-sapphire/normal/pikachu.png
+- https://www.serebii.net/diamondpearl/pokemon/025-m.png
+- https://www.serebii.net/blackwhite/pokemon/025.png
+- https://www.serebii.net/xy/pokemon/025.png
+- https://www.serebii.net/sunmoon/pokemon/025.png
+- https://www.serebii.net/swordshield/pokemon/025.png
+
