@@ -1,4 +1,4 @@
-# Information about the Meme
+# Procrastinating Pikachu
 The formating of the meme is an adaption of exiting meme format of picture and text followed by picture and text.
 The images used are the combination of using well known Pikachu images.
 The inspiration of this meme is from how students tend to procrastinate until the very last moment.  
