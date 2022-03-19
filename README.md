@@ -23,3 +23,7 @@ The purpose for this repo is to submit assignment 1 meme project on github.
 8) The report contains a Learning reflection section that meets the stated requirements (1 mark)
 9) The visual appearance of the report has been modified in at least two different ways using CSS code (1 mark)
 10) The report demonstrates creativity (1 mark)
+
+### Images used reference.
+- https://pbs.twimg.com/media/D8qKs4IXkAAz9rK.jpg
+- https://i.kym-cdn.com/entries/icons/mobile/000/027/475/Screen_Shot_2018-10-25_at_11.02.15_AM.jpg
