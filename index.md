@@ -3,6 +3,7 @@ The formating of the meme is an adaption of exiting meme format of picture and t
 The images used are the combination of using well known Pikachu images.
 The inspiration of this meme is from how students tend to procrastinate until the very last moment.  
 
+![](https://github.com/Niakho/stats220/blob/main/my_meme.png?raw=true)
 
 # Library
 ```r
